@@ -1,0 +1,102 @@
+<resources>
+
+    <!--Titulos-->
+    <string name="app_name">EXPO-AR</string>
+    <string name="title_activity_home">EXPO-AR</string>
+    <string name="gallery_superior">Vista Superior</string>
+    <string name="gallery_primarios">Signos Primarios</string>
+    <string name="gallery_aglomeracion">Aglomeración de Signos</string>
+    <string name="gallery_titulo">Elementos Gráficos de la Pieza</string>
+    <string name="image_piece">Imagen pieza</string>
+    <string name="txt_bienvenida">Museo Arqueológico Julio C. Cubillos</string>
+    <string name="txt_titulo_portada">Exposición Cerámica Tuza</string>
+
+    <!--Datos de las piezas-->
+    <string name="name_p2128">Pieza No. 2128 - Colección del MAJCC</string>
+    <string name="fecha_p2128">Fecha de creación: 1250 - 1500 d.C.</string>
+    <string name="dim_p2128">Dimensiones: 15.5 x 8.5 cm</string>
+    <string name="art_p2128">Artefacto: Ocarina</string>
+    <string name="tipo_p2128">Tipo y Técnica: Escultura, Cerámica</string>
+    <string name="desc_p2128">La dualidad expresada por los colores crema y rojo también se representa en ocarinas con forma de caracol, cuyo motivo central de triángulos escalonados ocupa la parte central, alrededor de la embocadura del instrumento.</string>
+
+    <string name="name_p2161">Pieza No. 2161 - Colección del MAJCC</string>
+    <string name="fecha_p2161">Fecha de creación: 1250 - 1500 d.C.</string>
+    <string name="dim_p2161">Dimensiones: Desconocidas</string>
+    <string name="art_p2161">Artefacto: Plato</string>
+    <string name="tipo_p2161">Tipo y Técnica: Escultura, Cerámica</string>
+    <string name="desc_p2161">En esta pieza podemos observar una estructura concéntrica, en la cual predomina el color rojo y el negro sobre una superficie crema. Como en la mayoría de las muestras artísticas Tuza podemos observar el uso de elementos primarios como lo es el triángulo escaleno, el cual mediante la repetición conforma una forma geométrica compuesta.</string>
+
+    <string name="name_p2219">Pieza No. 2219: Colección del MAJCC</string>
+    <string name="fecha_p2219">Fecha de creación: 1250 - 1500 d.C.</string>
+    <string name="dim_p2219">Dimensiones: Desconocidas</string>
+    <string name="art_p2219">Artefacto: Plato</string>
+    <string name="tipo_p2219">Tipo y Técnica: Escultura, Cerámica</string>
+    <string name="desc_p2219">En esta pieza podemos observar aglomeración de contornos circulares que van dando forma a una estructura concéntrica muy característica de los platos Tuza. También podemos observar en su centro la estrella de ocho puntas o Sol de los Pastos, grafico predominante y característico de las composiciones Tuza, y que según estudios recientes hace referencia al tránsito del sol sobre la tierra durante los solsticios y equinoccios, el cual según su forma podría estar representando calendarios solares.</string>
+
+    <string name="name_p2229">Pieza No. 2229 - Colección del MAJCC</string>
+    <string name="fecha_p2229">Fecha de creación: 1250 - 1500 d.C.</string>
+    <string name="dim_p2229">Dimensiones: Desconocidas</string>
+    <string name="art_p2229">Artefacto: Plato</string>
+    <string name="tipo_p2229">Tipo y Técnica: Escultura, Cerámica</string>
+    <string name="desc_p2229">Imagen de individuos que conducen venados a algún tipo de ritual. Por el tocado que llevan en sus cabezas podría tratarse de chamanes. La representación pintada en color café oscuro, uno de los colores típicos Tuza, se repite cuatro veces, en el nivel superior de la narrativa temática zoo-antropomorfa.</string>
+
+    <string name="name_p3197">Pieza No. 3197 - Colección del MAJCC</string>
+    <string name="fecha_p3197">Fecha de creación - 1250 - 1500 d.C.</string>
+    <string name="dim_p3197">Dimensiones - 14.7 x 5.8 cm</string>
+    <string name="art_p3197">Artefacto - Ocarina</string>
+    <string name="tipo_p3197">Tipo y Técnica - Escultura, Cerámica</string>
+    <string name="desc_p3197">Representación zoo antropomorfa en un instrumento musical de viento, denominado ocarina. Tiene forma caracoloide y en la parte superior está personificado un individuo de alto estatus, con un gorro y una especie de bastón en la mano derecha. Su cuerpo está decorado con diseños de triángulos unidos por uno de sus vértices, en cuyo interior aparecen iconos en forma de pirámide. La figura está pintada con los colores de la vida y la muerte: rojo y negro.</string>
+
+    <string name="name_p3203">Pieza No. 3203 - Colección del MAJCC</string>
+    <string name="fecha_p3203">Fecha de creación - 1250 - 1500 d.C.</string>
+    <string name="dim_p3203">Dimensiones - 18 x 8 cm</string>
+    <string name="art_p3203">Artefacto - Ocarina</string>
+    <string name="tipo_p3203">Tipo y Técnica - Escultura, Cerámica</string>
+    <string name="desc_p3203">Ocarina caracoloide con representación zoomorfa. Dos animales, posiblemente curíes, pintados de rojo fueron representados en el plano central de la composición de color crema.</string>
+
+    <string name="name_p3227">Pieza No. 3227 - Colección del MAJCC</string>
+    <string name="fecha_p3227">Fecha de creación: 1250 - 1500 d.C.</string>
+    <string name="dim_p3227">Dimensiones: Desconocidas</string>
+    <string name="art_p3227">Artefacto: Plato</string>
+    <string name="tipo_p3227">Tipo y Técnica: Escultura, Cerámica</string>
+    <string name="desc_p3227">En esta pieza se puede observar el uso de líneas compositivas básicas, las cuales mediante el uso de superposición forman cruces que actúan de manera independiente dentro de la composición. También podemos observar líneas entrecruzadas que según algunos académicos estarían representando estrellas, mientras que para las comunidades Pastos dichas composiciones representan la Chagra.</string>
+
+    <string name="name_p3274">Pieza No. 3274 - Colección del MAJCC</string>
+    <string name="fecha_p3274">Fecha de creación: 1250 - 1500 d.C.</string>
+    <string name="dim_p3274">Dimensiones: Desconocidas</string>
+    <string name="art_p3274">Artefacto: Plato</string>
+    <string name="tipo_p3274">Tipo y Técnica: Escultura, Cerámica</string>
+    <string name="desc_p3274">Aquí se puede apreciar una composición formada por signos primarios que forman aglomeraciones figurativas zoomorfas, en este caso, claramente se puede observar las cabezas, las alas, cuerpo y cola que dan forma a las aves, animales muy representativos en la composición Tuza. También se puede observar representaciones de viviendas, las cuales acompañadas de las aves dan forma a una composición concéntrica.</string>
+
+    <!--Titulos de quiz-->
+    <string name="txt_preguntas_correctas">Preguntas correctas: 0</string>
+    <string name="txt_pregunta_no">Pregunta: 1/X</string>
+    <string name="txt_cronometro">00:00</string>
+    <string name="txt_pregunta">Aquí estará el texto de la pregunta\nAquí estará el texto de la pregunta\nAquí estará el texto de la pregunta</string>
+    <string name="txt_opcion_1">opción a</string>
+    <string name="txt_opcion_2">opción b</string>
+    <string name="txt_opcion_3">opción c</string>
+    <string name="txt_button_confirmar">confirmar</string>
+
+    <!--Titulos starting quiz-->
+    <string name="txt_button_iniciar">Iniciar quiz</string>
+    <string name="txt_image_logo">logo description</string>
+    <string name="txt_email">Ingresa tu correo</string>
+    <string name="txt_bienvenida_quiz">Toma el quiz y si respondes de forma correcta al menos 5 preguntas, podrás ganar un recuerdo</string>
+    <string name="txt_antes_quiz">Las preguntas del quiz están relacionadas con la exposición aumentada de ocarinas y platos, si ya disfrutaste de la experiencia presiona SI para continuar</string>
+    <string name="txt_title_alert">¿Ya visitaste las exposiciones?</string>
+    <string name="txt_yes">Si</string>
+    <string name="txt_no">no</string>
+
+    <!--Titulos home-->
+    <string name="txt_button_ocarina">Ver Ocarinas</string>
+    <string name="txt_button_platos">Ver Platos</string>
+    <string name="txt_button_quiz">Quiz</string>
+
+    <!--Instrucciones-->
+    <string name="txt_ok">ok</string>
+    <string name="titulo_instrucciones">Bienvenido a la Exposición Aumentada</string>
+    <string name="titulo_mano">1. Mueve el celular alrededor de una superficie plana</string>
+    <string name="titulo_puntos">2. Aparecera una maya de puntos al encontrar una superficie correcta</string>
+    <string name="titulo_objeto">3. Selecciona una pieza del listado inferior y aparecera sobre la superficie</string>
+</resources>

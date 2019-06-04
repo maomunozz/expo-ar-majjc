@@ -1,0 +1,49 @@
+{
+  materials: [
+    {
+      name: 'Material_0.003',
+      parameters: [
+        {
+          baseColor: 'piece222901',
+        },
+        {
+          baseColorTint: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallic: 1,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/Models/piece2229/piece2229.obj',
+    name: 'piece2229',
+    recenter: 'root',
+  },
+  samplers: [
+    {
+      file: 'sampledata/Models/piece2229\\piece222901.jpg',
+      name: 'piece222901',
+      pipeline_name: 'piece222901.jpg',
+    },
+  ],
+  version: '0.54:2',
+}
